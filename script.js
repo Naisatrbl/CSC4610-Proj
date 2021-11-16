@@ -10,6 +10,7 @@ recipeCloseBtn.addEventListener('click', () => {
     mealDetailsContent.parentElement.classList.remove('showRecipe');
 });
 
+//function 
 
 // get meal list that matches with the ingredients
 function getMealList(){

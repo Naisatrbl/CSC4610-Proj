@@ -9,7 +9,7 @@
 }
 :root{
     --tenne-tawny: #55d6aa;
-    --tenne-tawny-dark: #000;
+    --tenne-tawny-dark: rgb(0, 0, 0);
 }
 body{
     font-weight: 300;
@@ -90,7 +90,7 @@ body{
     -ms-transition: all 0.4s linear;
     -o-transition: all 0.4s linear;
 }
-.search-btn:hover
+
 .diet-btn:hover{
     background: var(--tenne-tawny-dark);
 }
